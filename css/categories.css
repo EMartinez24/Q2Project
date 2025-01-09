@@ -1,0 +1,82 @@
+img {
+    width: 30px;
+    /* height: 30px; */
+}
+
+.navbar {
+  background-color: #A8D5BA;
+}
+
+body {
+  background-image: url('https://i.ibb.co/vkZXf6P/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+    background-color: #F2A541;
+}
+  
+.btn:hover {
+    background-color: #febf6d;
+    color: black;
+
+}
+
+h3 {
+    text-align: center;
+    color: #A8D5BA;
+    margin-top: 45px;
+    text-shadow: 0 0 10px #A8D5BA;
+}
+
+.h3-caption {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px white;
+}
+
+.breakfast-card {
+    background-color: #A8D5BA;
+    height: 115px;
+}
+  
+.lunch-card {
+    background-color: #FFEDD5;
+    height: 115px;
+}
+  
+.dinner-card {
+    background-color: #FFD9E8;
+    height: 115px;
+}
+
+.pancit-canton {
+    width: 400px;
+    height: 170px;
+}
+  
+.sinigang {
+    width: 400px;
+    height: 170px;
+}
+  
+.adobo {
+    width: 400px;
+    height: 170px;
+}
+
+.card-img-top {
+    width: auto;
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-body {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}

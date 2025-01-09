@@ -1,0 +1,90 @@
+img {
+    width: 30px;
+    /* height: 30px; */
+}
+
+.navbar {
+  background-color: #A8D5BA;
+}
+
+body {
+  background-image: url('https://i.ibb.co/vkZXf6P/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  text-align: center;
+  color: #A8D5BA;
+  margin-top: 45px;
+  text-shadow: 0 0 10px #A8D5BA;
+}
+
+.h3-caption {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px white;
+}
+
+.carousel-inner img {
+  margin: auto;
+  display: block;
+  object-fit: cover;
+  margin-top: 25px;
+  border: 5px solid #A8D5BA;
+  width: 70%;
+  height: 300px;
+}
+
+.carousel-control-prev {
+  left: 200px;
+}
+
+.carousel-control-next {
+  right: 200px;
+}
+
+.carousel-item .carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
+.h5-carousel {
+  color: #A8D5BA;
+}
+
+.container {
+  width: 2000px;
+}
+
+.card-img-top {
+  width: auto;
+  height: 200px;
+  object-fit: cover;
+}
+
+.about-text {
+  text-align: center;
+  color: #A8D5BA;
+}
+
+.btn {
+  background-color: #F2A541;
+}
+
+.btn:hover {
+  background-color: #febf6d;
+  color: black;
+}
